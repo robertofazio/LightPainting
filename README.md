@@ -10,7 +10,7 @@ ofxCV
 ofxOpenCV
 ofxGui
 
--> ![Screenshot](LightPainting.m4v) <-
+-> [video demo](LightPainting.m4v) <-
 
 Thanks to @naus3a [Enrico Viola](https://github.com/naus3a/)
 
