@@ -10,7 +10,7 @@ ofxCV
 ofxOpenCV
 ofxGui
 
--> [video demo](LightPainting.m4v) <-
+-> [video demo](https://www.instagram.com/p/BTaMZpQFJ36/?taken-by=robertofaziostudio&hl=en) <-
 
 Thanks to @naus3a [Enrico Viola](https://github.com/naus3a/)
 
